@@ -1,2 +1,2 @@
 # Data-Science
-Jupyter Notebooks from Data Science Course
+Jupyter Notebooks from Data Science Course on EDX
